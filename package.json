@@ -1,0 +1,25 @@
+{
+  "name": "week1-day3-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maggie-grundy/week1-day3-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/maggie-grundy/week1-day3-assignment/issues"
+  },
+  "homepage": "https://github.com/maggie-grundy/week1-day3-assignment#readme",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
